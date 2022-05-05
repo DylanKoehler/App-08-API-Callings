@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F572C1B27BEBAED0062837A /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F572C1A27BEBAED0062837A /* SwiftyJSON.swift */; };
 		3FE608FA27AC3FAD002030B3 /* App_08_API_CallingsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE608F927AC3FAD002030B3 /* App_08_API_CallingsApp.swift */; };
 		3FE608FC27AC3FAD002030B3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE608FB27AC3FAD002030B3 /* ContentView.swift */; };
 		3FE608FE27AC3FB8002030B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FE608FD27AC3FB8002030B3 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F572C1A27BEBAED0062837A /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 		3FE608F627AC3FAD002030B3 /* App 08 API Callings.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "App 08 API Callings.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FE608F927AC3FAD002030B3 /* App_08_API_CallingsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App_08_API_CallingsApp.swift; sourceTree = "<group>"; };
 		3FE608FB27AC3FAD002030B3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				3FE608F927AC3FAD002030B3 /* App_08_API_CallingsApp.swift */,
 				3FE608FB27AC3FAD002030B3 /* ContentView.swift */,
+				3F572C1A27BEBAED0062837A /* SwiftyJSON.swift */,
 				3FE608FD27AC3FB8002030B3 /* Assets.xcassets */,
 				3FE6090227AC3FB8002030B3 /* Info.plist */,
 				3FE608FF27AC3FB8002030B3 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F572C1B27BEBAED0062837A /* SwiftyJSON.swift in Sources */,
 				3FE608FC27AC3FAD002030B3 /* ContentView.swift in Sources */,
 				3FE608FA27AC3FAD002030B3 /* App_08_API_CallingsApp.swift in Sources */,
 			);
